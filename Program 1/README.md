@@ -1,4 +1,4 @@
-#Subset Sum
+# Subset Sum
 We all know the famous dynamic programming problem Subset Sum. This programming assignment aims to find the optimal subset which equals to the given sum in polynomial time.
 
 
